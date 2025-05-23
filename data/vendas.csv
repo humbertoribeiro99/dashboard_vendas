@@ -1,0 +1,7 @@
+data,produto,regiao,quantidade,preco_unitario
+2025-01-01,Produto A,Região Norte,10,15.5
+2025-01-02,Produto B,Região Sul,5,20
+2025-01-03,Produto A,Região Norte,7,15.5
+2025-01-04,Produto C,Região Leste,3,30
+2025-01-05,Produto B,Região Sul,8,20
+2025-01-06,Produto C,Região Oeste,2,30
